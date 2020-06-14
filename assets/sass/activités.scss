@@ -1,0 +1,14 @@
+$large: 1200px;
+
+.wrapper {
+  overflow: hidden;
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 2fr 1fr;
+  grid-gap: 10px;
+
+  @media screen and (min-width: $large) {
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: auto;
+  }
+}
