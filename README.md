@@ -9,6 +9,6 @@
 
 - ANDREANI Matthieu
 
-
+Pour accéder à la page d'accueil de notre site, ouvrez index.html
 
 We are Cosmo Cruise.
